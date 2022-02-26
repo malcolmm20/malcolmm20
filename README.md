@@ -1,7 +1,3 @@
-Malcolm Mackenzie
+Hi, I'm Malcolm Mackenzie
 
-
-Business and Computer Science Student at UBC
-
-
-
+I am currently studying Business and Computer Science at the University of British Columbia.
